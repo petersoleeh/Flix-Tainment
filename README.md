@@ -1,2 +1,2 @@
 # Flix-Tainment
-A clone of Nexflix
+A clone of Netflix
